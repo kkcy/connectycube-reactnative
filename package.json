@@ -39,7 +39,7 @@
   "dependencies": {
     "@xmpp/client": "^0.7.4",
     "base-64": "^0.1.0",
-    "crypto-js": "3.1.9-1",
+    "crypto-js": "4.2.0",
     "fbemitter": "^2.1.1",
     "react-native-webrtc": "^1.75.0",
     "sdp-transform": "^2.12.0"
